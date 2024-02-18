@@ -16,7 +16,7 @@ std::string Processor(WORD type) {
         case PROCESSOR_ARCHITECTURE_AMD64:
             return "x64";
         default:
-            return "Unknown";
+            return "wtf is your processor nigga ? ";
     }
 }
 
