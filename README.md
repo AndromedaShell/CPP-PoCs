@@ -6,8 +6,9 @@
 - **Process Hollowing**
 - **Simple MessageBox**
 - **Process Enumeration**
-- **Simple PPID spoof**
-- **List Processor**
+- **PPID spoof**
+- **Processor Detector**
+- **Process Memory (reads using PID)**
 
 # ❕ Disclaimer 
 - These are made for educational purposes only
